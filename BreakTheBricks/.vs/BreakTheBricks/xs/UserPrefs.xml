@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{33B49791-0A51-457E-535D-F9DB2CDE8C1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Movement.cs">
+    <Files>
+      <File FileName="Assets/Script/Movement.cs" Line="12" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BreakTheBricks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ec578887-596e-4f74-a501-a34f5f322ad3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
