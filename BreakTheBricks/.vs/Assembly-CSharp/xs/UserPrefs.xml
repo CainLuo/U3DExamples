@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{33B49791-0A51-457E-535D-F9DB2CDE8C1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Shoot.cs">
+    <Files>
+      <File FileName="Assets/Script/Movement.cs" Line="22" Column="6" />
+      <File FileName="Assets/Script/LearnUpdate.cs" Line="17" Column="20" />
+      <File FileName="Assets/Script/Shoot.cs" Line="27" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Shoot.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02abb014-a1c7-4098-8d2c-f3af3067015d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
